@@ -1,0 +1,6 @@
+F:\C# Practice\1\DateTime\DateTime\bin\Debug\DateTime.exe.config
+F:\C# Practice\1\DateTime\DateTime\bin\Debug\DateTime.exe
+F:\C# Practice\1\DateTime\DateTime\bin\Debug\DateTime.pdb
+F:\C# Practice\1\DateTime\DateTime\obj\Debug\DatesAndTimes.csprojResolveAssemblyReference.cache
+F:\C# Practice\1\DateTime\DateTime\obj\Debug\DateTime.exe
+F:\C# Practice\1\DateTime\DateTime\obj\Debug\DateTime.pdb
